@@ -1,4 +1,4 @@
-# Tembo-Stream-App V1.0
+# Tembo-Stream-App v1.0
 A cross-platform audio streaming app.
 Built with flutter: Works on both iOS and Android.
 Live stream internet Radio & Podcasts.
